@@ -1,2 +1,3 @@
 # nand2terics
-coursera project
+coursera project of Nand2Terics
+
